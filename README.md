@@ -1,7 +1,7 @@
 # Программирование, 5-ый семестр
 
-## <a href = "https://replit.com/@Buryackov-Ivan?path=folder/PROG-5-sem"> Папка </a> со всеми работами
-### Ссылка на папку
+## Папка со всеми работами
+### Ссылка на <a href = "https://replit.com/@Buryackov-Ivan?path=folder/PROG-5-sem"> папку </a>
 
 ## Лабораторные работы
 #### <a href = https://replit.com/@Buryackov-Ivan/LR-1> Лабораторная работа №1</a> - Создание собственного модуля и пакета
