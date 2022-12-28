@@ -17,14 +17,14 @@
 
 #### <a href = https://replit.com/@Buryackov-Ivan/LR-7> Лабораторная работа №7 </a> - Использование шаблона «Декоратор»
 
-#### <a href = "https://replit.com/@Buryackov-Ivan/LR-8-nuzh"> Лабораторная работа №8 </a>
+#### <a href = "https://replit.com/@Buryackov-Ivan/LR-8-nuzh"> Лабораторная работа №8 </a> - Присоединитесь к редактированию борда, пройдя по ссылке: https://replit.com/join/fvupvjjhyg-zhukov
 
-#### <a> Лабораторная работа №9 </a>
+#### <a> Лабораторная работа №9 </a> - Форму для регистрации на конференцию
 
-#### <a> Лабораторная работа №10 </a>
+#### <a> Лабораторная работа №10 </a> - Джанго-приложения
 
 #### <a> Лабораторная работа №11 </a>
 
-#### <a href = "https://colab.research.google.com/drive/1WaX-WxoVbPqNP4gP9C2Vg4EPh59wAhYN?usp=sharing#scrollTo=I01c08EEpqmQ"> Лабораторная работа №12 </a>
+#### <a href = "https://colab.research.google.com/drive/1WaX-WxoVbPqNP4gP9C2Vg4EPh59wAhYN?usp=sharing#scrollTo=I01c08EEpqmQ"> Лабораторная работа №12 </a> - Графики matplotlib
 
-#### <a href = "https://colab.research.google.com/drive/1i2LqGPlICyPyEcSEKv-QZZe0JE_U9i-j"> Лабораторная работа №13 </a>
+#### <a href = "https://colab.research.google.com/drive/1i2LqGPlICyPyEcSEKv-QZZe0JE_U9i-j"> Лабораторная работа №13 </a> - Визуализация курсов валют
