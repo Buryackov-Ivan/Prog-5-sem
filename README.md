@@ -19,7 +19,7 @@
 
 #### <a href = https://replit.com/@Buryackov-Ivan/LR-7> Лабораторная работа №7 </a> - Использование шаблона «Декоратор»
 
-#### <a href = "https://replit.com/@Buryackov-Ivan/LR-8-nuzh"> Лабораторная работа №8 </a> - Присоединитесь к редактированию борда, пройдя по ссылке: https://replit.com/join/fvupvjjhyg-zhukov
+#### <a href = "https://replit.com/@Buryackov-Ivan/LR-8-nuzh"> Лабораторная работа №8 </a> - Присоединиться к редактированию борда, пройдя по ссылке: https://replit.com/join/fvupvjjhyg-zhukov
 
 #### <a> Лабораторная работа №9 </a> - Форму для регистрации на конференцию
 
